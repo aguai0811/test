@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo hello travis CI test "
+    "test": "echo hello travis CI test 奥术大师大 "
   },
   "keywords": [],
   "author": "",
